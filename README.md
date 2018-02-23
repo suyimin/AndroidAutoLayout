@@ -1,4 +1,7 @@
 # AndroidAutoLayout
+
+A copy of https://github.com/hongyangAndroid/AndroidAutoLayout
+
 [DEPRECATED]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配。
 
 >目前没有精力，已停止维护，使用前务必看明白代码，明确该方案可以解决自身问题，有扩展代码能力，否则不建议使用。
